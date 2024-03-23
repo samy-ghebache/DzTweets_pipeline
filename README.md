@@ -28,4 +28,4 @@ case of suffixes ak, ik, ok, ouk For example, yetfarjou → yetfarj, fhamto → 
 • Suffixes h, ha must be deleted when the radical is two letters or more. For example, khatih → khati, katiha →
 khati
 
-Standard Arabic and Dz Arabic are written using Arabic script.
+Standard Arabic and Dz Arabic are written using specific Arabic script.
