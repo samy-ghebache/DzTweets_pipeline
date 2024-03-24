@@ -29,4 +29,4 @@ case of suffixes ak, ik, ok, ouk For example, yetfarjou → yetfarj, fhamto → 
 khati
 Standard Arabic and Dz Arabic are written using specific Arabic script.
 
-Don't forget to star the Repo ma friend !!
+Don't forget to star the Repo may friend!!!
